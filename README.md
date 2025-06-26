@@ -21,3 +21,5 @@ I implemented visual distinctions for sender and receiver messages using differe
 Additionally, I ensured that the chat resets on page refresh, simulating real-time data loss without a backend. This decision was intentional to keep the app lightweight while demonstrating front-end interactivity.
 
 This project helped me strengthen my skills in JavaScript, real-time user interface updates, and responsive design. It also reflects my ability to create dynamic and user-focused web applications.
+
+#OUTPUT : ![Image](https://github.com/user-attachments/assets/e0a45d2d-26fc-4454-b1b3-f50222074ae4)
